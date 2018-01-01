@@ -1,2 +1,1 @@
-# issue-tracker
-Track issues via github for transparancy and clarity purposes.
+[Please click here if you're not redirected](https://github.com/Botcoins/issue-tracker/issues)
